@@ -1,0 +1,15 @@
+C:\Users\dikod\Documents\c#\AssignTask2\bin\Debug\net6.0\AssignTask2.exe
+C:\Users\dikod\Documents\c#\AssignTask2\bin\Debug\net6.0\AssignTask2.deps.json
+C:\Users\dikod\Documents\c#\AssignTask2\bin\Debug\net6.0\AssignTask2.runtimeconfig.json
+C:\Users\dikod\Documents\c#\AssignTask2\bin\Debug\net6.0\AssignTask2.dll
+C:\Users\dikod\Documents\c#\AssignTask2\bin\Debug\net6.0\AssignTask2.pdb
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.csproj.AssemblyReference.cache
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.AssemblyInfoInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.AssemblyInfo.cs
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.csproj.CoreCompileInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.dll
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\refint\AssignTask2.dll
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.pdb
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\AssignTask2.genruntimeconfig.cache
+C:\Users\dikod\Documents\c#\AssignTask2\obj\Debug\net6.0\ref\AssignTask2.dll

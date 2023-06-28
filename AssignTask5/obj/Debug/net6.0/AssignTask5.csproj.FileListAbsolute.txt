@@ -1,0 +1,15 @@
+C:\Users\dikod\Documents\c#\AssignTask5\bin\Debug\net6.0\AssignTask5.exe
+C:\Users\dikod\Documents\c#\AssignTask5\bin\Debug\net6.0\AssignTask5.deps.json
+C:\Users\dikod\Documents\c#\AssignTask5\bin\Debug\net6.0\AssignTask5.runtimeconfig.json
+C:\Users\dikod\Documents\c#\AssignTask5\bin\Debug\net6.0\AssignTask5.dll
+C:\Users\dikod\Documents\c#\AssignTask5\bin\Debug\net6.0\AssignTask5.pdb
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.csproj.AssemblyReference.cache
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.AssemblyInfoInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.AssemblyInfo.cs
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.csproj.CoreCompileInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.dll
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\refint\AssignTask5.dll
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.pdb
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\AssignTask5.genruntimeconfig.cache
+C:\Users\dikod\Documents\c#\AssignTask5\obj\Debug\net6.0\ref\AssignTask5.dll

@@ -1,0 +1,15 @@
+C:\Users\dikod\Documents\c#\AssignTask4\bin\Debug\net6.0\AssignTask4.exe
+C:\Users\dikod\Documents\c#\AssignTask4\bin\Debug\net6.0\AssignTask4.deps.json
+C:\Users\dikod\Documents\c#\AssignTask4\bin\Debug\net6.0\AssignTask4.runtimeconfig.json
+C:\Users\dikod\Documents\c#\AssignTask4\bin\Debug\net6.0\AssignTask4.dll
+C:\Users\dikod\Documents\c#\AssignTask4\bin\Debug\net6.0\AssignTask4.pdb
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.csproj.AssemblyReference.cache
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.AssemblyInfoInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.AssemblyInfo.cs
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.csproj.CoreCompileInputs.cache
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.dll
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\refint\AssignTask4.dll
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.pdb
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\AssignTask4.genruntimeconfig.cache
+C:\Users\dikod\Documents\c#\AssignTask4\obj\Debug\net6.0\ref\AssignTask4.dll
